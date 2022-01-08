@@ -1,0 +1,19 @@
+{
+    "name": "Battleships",
+    "rootNamespace": "",
+    "references": [
+        "GUID:20b24152311b643c3953c429ca0ac587",
+        "GUID:c2354bc330f0644cd850bdbb57bb0162",
+        "GUID:e586597a8d34e4324a37b31d991631d1",
+        "GUID:c59acf50987564ad393ad16eb0be1a82"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
